@@ -2,10 +2,20 @@ body{
     background-color: black;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
 
 }
 #parent{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    flex-direction: column;
 }
+#number{
+    font-size: 50px;
+
+}
+button{
+    font-size: 50px;}
+    
